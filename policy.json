@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "message": "OK",
+  "minVersionCode": 1,
+  "cacheTtlSeconds": 600
+}
