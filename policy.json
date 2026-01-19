@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "message": "403",
+  "enabled": true,
+  "message": "Ok",
   "minVersionCode": 1,
   "cacheTtlSeconds": 10
 }
