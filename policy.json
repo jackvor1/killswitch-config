@@ -2,5 +2,5 @@
   "enabled": false,
   "message": "4303",
   "minVersionCode": 1,
-  "cacheTtlSeconds": 10
+  "cacheTtlSeconds": 30
 }
