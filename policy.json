@@ -2,5 +2,5 @@
   "enabled": false,
   "message": "403",
   "minVersionCode": 1,
-  "cacheTtlSeconds": 600
+  "cacheTtlSeconds": 10
 }
